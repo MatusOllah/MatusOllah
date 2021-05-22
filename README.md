@@ -1,0 +1,2 @@
+-- kódujem v golang
+-- hrám Fall Guys a FnF
