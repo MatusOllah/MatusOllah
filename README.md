@@ -1,2 +1,2 @@
-- kódujem v golang
-- hrám Fall Guys a FnF
+- programujem v Go
+- hrám Fall Guys a FNF
