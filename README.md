@@ -1,2 +1,3 @@
 - programujem v Go
 - hrám Fall Guys a FNF
+- milujem Horalky a bryndzové halušky
