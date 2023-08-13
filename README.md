@@ -2,3 +2,4 @@
 - hrám Fall Guys a FNF
 - milujem Horalky, bryndzové halušky, Kofolu a Baldovskú
 - profilovka / PFP - [https://www.youtube.com/@gaving2849](https://www.youtube.com/@gaving2849)
+- milujem BF z FNF (no homo)
