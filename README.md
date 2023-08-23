@@ -1,3 +1,5 @@
+**Boyfriend = goat**
+
 - programujem v Go
 - hrám Fall Guys a FNF
 - milujem Horalky, bryndzové halušky, Kofolu a Baldovskú
