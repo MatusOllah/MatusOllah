@@ -13,7 +13,7 @@
 ---
 
 - I code in Go
-- I play Fall Guys a FNF
+- I play Fall Guys and FNF
 - I love Horalky, bryndzové halušky, Kofola and Baldovská
 - PFP - [https://www.youtube.com/@gaving2849](https://www.youtube.com/@gaving2849)
 - I love FNF Boyfriend (no homo)
