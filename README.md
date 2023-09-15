@@ -12,6 +12,7 @@
 - I love Horalky, bryndzové halušky, Kofola and Baldovská
 - I love FNF Boyfriend (no homo)
 
+## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatusOllah&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
