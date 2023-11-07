@@ -1,14 +1,14 @@
 # Ahoj! :D
 
 - programujem v Go
-- hrám Fall Guys a FNF
+- hrám FNF
 - milujem Horalky, bryndzové halušky, Kofolu a Baldovskú
 - milujem Frajera z FNF (no homo)
 
 ---
 
 - I code in Go
-- I play Fall Guys and FNF
+- I play FNF
 - I love Horalky, bryndzové halušky, Kofola and Baldovská
 - I love FNF Boyfriend (no homo)
 
