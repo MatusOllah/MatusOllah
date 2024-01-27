@@ -9,8 +9,8 @@
 
 - I code in Go
 - I play FNF
-- I love Horalky, bryndzové halušky, Kofola and Baldovská
-- I love FNF Boyfriend (no homo)
+- I ❤ Horalky, bryndzové halušky, Kofola and Baldovská
+- I ❤ FNF Boyfriend (no homo)
 
 ## Stats
 
