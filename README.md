@@ -11,6 +11,7 @@
 - I play FNF
 - I ❤ Horalky, bryndzové halušky, Kofola and Baldovská
 - I ❤ FNF Boyfriend (no homo)
+- I'm Slovak and I suck at English.
 
 ## Stats
 
