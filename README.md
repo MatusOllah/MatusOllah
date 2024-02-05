@@ -10,7 +10,7 @@
 - I code in Go
 - I play FNF
 - I ❤ Horalky, bryndzové halušky, Kofola and Baldovská
-- I ❤ FNF Boyfriend (no homo)
+- I ❤ FNF Boyfriend (not in a romantic way, no homo)
 - I'm Slovak and I suck at English.
 
 ## Stats
