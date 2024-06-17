@@ -1,14 +1,14 @@
 # Ahoj! :D
 
 - programujem v Go
-- hrám FNF
+- hrám Minecraft, Fall Guys a FNF
 - milujem Horalky, bryndzové halušky, Kofolu a Baldovskú
 - milujem Frajera z FNF (no homo)
 
 ---
 
 - I code in Go
-- I play FNF
+- I play Minecraft, Fall Guys and FNF
 - I ❤ Horalky, bryndzové halušky, Kofola and Baldovská
 - I ❤ FNF Boyfriend (no homo)
 - I'm Slovak and I suck at English.
