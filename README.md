@@ -2,8 +2,8 @@
 
 - programujem v Go
 - hrám Minecraft, Fall Guys a FNF
-- milujem Horalky, bryndzové halušky, Kofolu a Baldovskú
-- milujem postavu Boyfriend z FNF (no homo)
+- ❤ Horalky, bryndzové halušky, Kofolu a Baldovskú
+- ❤ postavu Boyfriend z FNF (no homo)
 
 ---
 
