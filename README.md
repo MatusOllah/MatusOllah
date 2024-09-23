@@ -1,4 +1,4 @@
-# Ahoj! :D
+# Ahoj! 😊
 
 - programujem v Go
 - hrám Minecraft, Fall Guys a FNF
