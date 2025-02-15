@@ -1,13 +1,20 @@
 # Hiii! 😊
 
-- I code in Go
-- I play Minecraft, Fall Guys, Half-Life and FNF
-- I ❤ Horalky, bryndzové halušky, Kofola and Baldovská
-- I ❤ Drum & Bass and Techno music
-- I ❤ FNF Boyfriend (no homo)
-- I'm Slovak and I suck at English
+- 🦫 I code in Go
+- 🎮 Fav games: Minecraft, Fall Guys, Half-Life, Slime Rancher and Friday Night Funkin'
+- 🍽️ Fav food: Horalky, Bryndzové Halušky, Kofola and Baldovská
+- 🎵 I ❤ Drum & Bass and Techno music
+- 🎤 I ❤ FNF Boyfriend
+- 🇸🇰 I'm Slovak, and English isn't my first language!
 
-## 🚀 Languages and Tools I Use
+## 🚀 My Projects
+
+- [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go implementation of Friday Night Funkin' with improvements
+- [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go + Qt6 based Friday Night Funkin' chart editor
+- [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog
+- [**kagei**](https://github.com/MatusOllah/kagei) - CLI tool for testing Kage shaders
+
+## 🛠️ Languages and Tools I Use
 
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
@@ -32,3 +39,8 @@
 ## 📊 My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatusOllah&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatusOllah&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📬 Connect With Me
+
+- **Discord** - @sladkycitron
+- **Instagram** - @matusollah
