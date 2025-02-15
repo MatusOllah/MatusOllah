@@ -1,22 +1,40 @@
 # Hiii! 😊
 
-- 🦫 I code in Go
-- 🎮 Fav games: Minecraft, Fall Guys, Half-Life, Slime Rancher and Friday Night Funkin'
-- 🍽️ Fav food: Horalky, Bryndzové Halušky, Kofola and Baldovská
-- 🎵 I ❤ Drum & Bass and Techno music
-- 🎤 I ❤ FNF Boyfriend
-- 🇸🇰 I'm Slovak, and English isn't my first language!
+I'm a passionate Go developer from Slovakia
 
-## 🚀 My Projects
+- 💻 I ❤ **IT and coding**, especially using Go!
+- 🇯🇵 I ❤ **Anime**, especially Shikanoko Nokonoko Koshitantan!
+- 🎵 I ❤ **Drum & Bass** and **Techno** music!
+- 🎤 I ❤ **Friday Night Funkin'**, especially the character Boyfriend!
+- 🇸🇰 I'm Slovak, and English is not my first language!
 
-- [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go implementation of Friday Night Funkin' with improvements
-- [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go + Qt6 based Friday Night Funkin' chart editor
-- [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog
-- [**kagei**](https://github.com/MatusOllah/kagei) - CLI tool for testing Kage shaders
+## 🎵 Favorite Song
+
+[Skepsis & Brodie - Double Vision](https://music.youtube.com/watch?v=Hz3DhgYmpXw)
+
+## 🎮 Favorite Games
+
+<p align="center">
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+</p>
+
+## 🍛 Favorite Foods & Drinks
+
+<p align="center">
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+</p>
 
 ## 🛠️ Languages and Tools I Use
 
-<p>
+<p align="center">
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -35,6 +53,12 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 </p>
 
+## 🚀 My Projects
+
+- [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with enhancements
+- [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go + Qt6 based Friday Night Funkin' chart editor
+- [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog
+- [**kagei**](https://github.com/MatusOllah/kagei) - CLI tool for testing Kage shaders
 
 ## 📊 My Stats
 
@@ -42,5 +66,8 @@
 
 ## 📬 Connect With Me
 
+> Feel free to reach out to me if you want to talk about Go, or gaming, or just be friends!
+
 - **Discord** - @sladkycitron
-- **Instagram** - @matusollah
+- **Instagram** - [@matusollah](https://www.instagram.com/matusollah/)
+- **Steam** - [SladkyCitron](https://steamcommunity.com/id/SladkyCitron/)
