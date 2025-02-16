@@ -2,35 +2,11 @@
 
 I'm a passionate Go developer from Slovakia
 
-- 💻 I ❤ **IT and coding**, especially using Go!
+- 💻 I ❤ **IT, gaming and coding**, especially using Go!
 - 🇯🇵 I ❤ **Anime**, especially Shikanoko Nokonoko Koshitantan!
 - 🎵 I ❤ **Drum & Bass** and **Techno** music!
 - 🎤 I ❤ **Friday Night Funkin'**, especially the character Boyfriend!
 - 🇸🇰 I'm Slovak, and English is not my first language!
-
-## 🎵 Favorite Song
-
-[Skepsis & Brodie - Double Vision](https://music.youtube.com/watch?v=Hz3DhgYmpXw)
-
-## 🎮 Favorite Games
-
-<p align="center">
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-</p>
-
-## 🍛 Favorite Foods & Drinks
-
-<p align="center">
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" alt="ebiten" width="42" height="42" /></a>
-</p>
 
 ## 🛠️ Languages and Tools I Use
 
@@ -52,6 +28,30 @@ I'm a passionate Go developer from Slovakia
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 </p>
+
+## 🎮 Favorite Games
+
+<p align="center">
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+</p>
+
+## 🍛 Favorite Foods & Drinks
+
+<p align="center">
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+<a target="_blank" href="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" style="display: inline-block;"><img src="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" alt="ebiten" width="42" height="42" /></a>
+</p>
+
+## 🎵 Favorite Song
+
+[Skepsis & Brodie - Double Vision](https://music.youtube.com/watch?v=Hz3DhgYmpXw)
 
 ## 🚀 My Projects
 
