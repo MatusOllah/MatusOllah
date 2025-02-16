@@ -1,11 +1,11 @@
 # Hiii! 😊
 
-I'm a passionate Go developer from Slovakia
+I'm a passionate Go developer based in Slovakia.
 
 - 💻 I ❤ **IT, gaming and coding**, especially using Go!
 - 🇯🇵 I ❤ **Anime**, especially Shikanoko Nokonoko Koshitantan!
 - 🎵 I ❤ **Drum & Bass** and **Techno** music!
-- 🎤 I ❤ **Friday Night Funkin'**, especially the character Boyfriend!
+- 🎤 I ❤ **Friday Night Funkin'**, especially the main character, Boyfriend!
 - 🇸🇰 I'm Slovak, and English is not my first language!
 
 ## 🛠️ Languages and Tools I Use
@@ -56,7 +56,7 @@ I'm a passionate Go developer from Slovakia
 ## 🚀 My Projects
 
 - [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with enhancements
-- [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go + Qt6 based Friday Night Funkin' chart editor
+- [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go + Qt6 based standalone FNF chart editor
 - [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog
 - [**kagei**](https://github.com/MatusOllah/kagei) - CLI tool for testing Kage shaders
 
