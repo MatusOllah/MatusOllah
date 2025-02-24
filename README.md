@@ -53,8 +53,8 @@ I'm a passionate Go developer based in Slovakia.
 
 ## 🚀 My Projects
 
-- [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with enhancements
-- [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go + Qt6 based standalone FNF chart editor
+- 🏗️ [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with enhancements
+- 🏗️ [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go + Qt6 based standalone FNF chart editor
 - [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog
 - [**kagei**](https://github.com/MatusOllah/kagei) - CLI tool for testing Kage shaders
 
