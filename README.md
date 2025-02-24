@@ -12,7 +12,7 @@ I'm a passionate Go developer from Slovakia.
 
 > *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
 
-## 🛠️ Languages and Tools I Use
+## 🛠️ Languages and Tools I Use / Know
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" />
