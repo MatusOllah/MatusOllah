@@ -77,6 +77,6 @@ I'm a passionate Go developer from Slovakia.
 
 > Feel free to reach out if you want to talk about Go, or gaming, or just be friends!
 
-- **Discord** - @sladkycitron
+- **Discord** - [@sladkycitron](https://discord.com/channels/@sladkycitron)
 - **Instagram** - [@matusollah](https://www.instagram.com/matusollah/)
 - **Steam** - [SladkyCitron](https://steamcommunity.com/id/SladkyCitron/)
