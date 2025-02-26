@@ -48,8 +48,10 @@ I'm a passionate Go developer from Slovakia.
 
 <p align="center">
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" alt="ebiten" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/lasagne.png?raw=true" alt="ebiten" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" alt="ebiten" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" alt="ebiten" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/fanta.png?raw=true" alt="ebiten" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" alt="ebiten" width="42" height="42" />
 </p>
 
