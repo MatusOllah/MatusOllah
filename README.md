@@ -3,11 +3,8 @@
 I'm a passionate Go developer from Slovakia.
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go!
-- 🇯🇵 I ❤ **Anime** (big fan of Shikanoko Nokonoko Koshitantan and My Hero Academia)
-- 🎵 I ❤ **Drum & Bass** and **Techno** (good music = good code!)
-- 🎤 I ❤ **Friday Night Funkin'** (Boyfriend is my favorite character! 💙)
 - 🚀 Currently exploring Go game dev with Ebitengine
-- 🎓 Learning more about concurrency and best practices in Go (and physics 🙄)
+- 🎓 Learning more about concurrency and best practices in Go
 - 🇸🇰 I'm Slovak, and English is not my first language!
 
 > *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
