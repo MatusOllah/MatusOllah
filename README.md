@@ -1,8 +1,12 @@
 # Hiii! 😊
 
-I'm a passionate Go developer from Slovakia.
+I'm a passionate Go developer from Slovakia who loves coding, gaming, and making cool things happen with technology!
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go!
+- 🇯🇵 I ❤ **VOCALOID** and **Anime** (big fan of Shikanoko Nokonoko Koshitantan and My Hero Academia)
+- 🎵 I ❤ **Drum & Bass** and **Techno** (good music = good code!)
+- 🎤 I ❤ **Friday Night Funkin'** (not so much the community though)
+  - Boyfriend is my favorite character! 💙
 - 🚀 Currently exploring Go game dev with Ebitengine
 - 🎓 Learning more about concurrency and best practices in Go
 - 🇸🇰 I'm Slovak, and English is not my first language!
@@ -33,32 +37,40 @@ I'm a passionate Go developer from Slovakia.
 ## 🎮 Favorite Games
 
 <p align="center">
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="ebiten" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="funkin" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="minecraft" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="fall_guys" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="half_life" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="slime_rancher" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="satisfactory" width="42" height="42" />
 </p>
 
 ## 🍛 Favorite Foods & Drinks
 
 <p align="center">
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/lasagne.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/fanta.png?raw=true" alt="ebiten" width="42" height="42" />
-<img src="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" alt="ebiten" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" alt="halusky" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/lasagne.png?raw=true" alt="lasagne" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" alt="horalky" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" alt="kofola" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/fanta.png?raw=true" alt="fanta" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" alt="baldovska" width="42" height="42" />
 </p>
 
-## 🎵 Favorite Song
+## 🎵 Favorite Songs
 
-[Skepsis & Brodie - Double Vision](https://music.youtube.com/watch?v=Hz3DhgYmpXw)
+[Skepsis & Brodie - Double Vision](https://tidal.com/browse/track/378768669?u)
+
+[Rudimental - Green & Gold](https://tidal.com/browse/track/345812639?u)
+
+[2 Engel & Charlie - Was im Club passiert](https://tidal.com/browse/track/420851086?u)
+
+[Hatsune Miku - Wah Wah World](https://tidal.com/browse/track/155187742?u)
+
+[Mitchie M - Newly Edgy Idols](https://tidal.com/browse/track/157120047?u)
 
 ## 🚀 My Projects
 
-- 🏗️ [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with enhancements
+- 🏗️ [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with improvements
 - 🏗️ [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go + Qt6 based standalone FNF chart editor
 - [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog
 - [**kagei**](https://github.com/MatusOllah/kagei) - CLI tool for testing Kage shaders
@@ -72,7 +84,7 @@ I'm a passionate Go developer from Slovakia.
 
 ## 📬 Connect With Me
 
-> Feel free to reach out if you want to talk about Go, or gaming, or just be friends! (please help I don't have any friends 😭)
+> Feel free to reach out if you want to talk about Go, or gaming, or just be friends!
 
 - **Discord** - [@sladkycitron](https://discord.com/channels/@sladkycitron)
 - **Instagram** - [@matusollah](https://www.instagram.com/matusollah/)
