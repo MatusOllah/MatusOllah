@@ -26,18 +26,15 @@ I'm a passionate Go developer from Slovakia who loves coding, gaming, and making
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="42" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="42" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" />
 </p>
 
 ## 🎮 Favorite Games
 
 <p align="center">
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="funkin" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/pjsk.png?raw=true" alt="pjsk" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="minecraft" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="fall_guys" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="half_life" width="42" height="42" />
