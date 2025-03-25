@@ -51,6 +51,7 @@ I'm a passionate Go developer from Slovakia who loves coding, gaming, and making
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" alt="halusky" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/lasagne.png?raw=true" alt="lasagne" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" alt="horalky" width="42" height="42" />
+<img src="https://github.com/MatusOllah/MatusOllah/blob/main/anita.png?raw=true" alt="anita" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" alt="kofola" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/fanta.png?raw=true" alt="fanta" width="42" height="42" />
 <img src="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" alt="baldovska" width="42" height="42" />
