@@ -3,7 +3,7 @@
 I'm a passionate Go developer from Slovakia who loves coding, gaming, and making cool things happen with technology!
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go!
-- 🇯🇵 I ❤ **VOCALOID** and **Anime** (big fan of Shikanoko Nokonoko Koshitantan and My Hero Academia)
+- 🇯🇵 I ❤ **VOCALOID** and **Anime** (big fan of Shikanoko Nokonoko Koshitantan and Project SEKAI)
 - 🎵 I ❤ **Drum & Bass** and **Techno** (good music = good code!)
 - 🎤 I ❤ **Friday Night Funkin'** (not so much the community though)
   - Boyfriend is my favorite character! 💙
