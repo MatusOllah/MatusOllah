@@ -58,9 +58,9 @@ I'm a passionate Go developer from Slovakia who loves coding, gaming, and making
 
 [Rudimental - Green & Gold](https://tidal.com/browse/track/345812639?u)
 
-[2 Engel & Charlie - Was im Club passiert](https://tidal.com/browse/track/420851086?u)
+[Charlotte Plank - Nightshift](https://tidal.com/browse/track/357911791?u)
 
-[Hatsune Miku - Wah Wah World](https://tidal.com/browse/track/155187742?u)
+[Mitchie M - Wah Wah World](https://tidal.com/browse/track/155187742?u)
 
 [Mitchie M - Newly Edgy Idols](https://tidal.com/browse/track/157120047?u)
 
