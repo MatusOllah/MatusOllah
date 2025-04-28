@@ -73,7 +73,6 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
 ## 📊 My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatusOllah&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatusOllah&theme=transparent&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-> C# appears here due to my old Unity projects, but my primary focus is Go 😊
 
 ## 📬 Connect With Me
 
