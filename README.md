@@ -5,8 +5,8 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
-- 🎤 I ❤ **Friday Night Funkin'** (not so much the community and content though); Boyfriend is my favorite character! 💙
 - 🎤 I ❤ **Project SEKAI**; Tsukasa Tenma is my one of my favorite characters! 💛
+- 🎤 I ❤ **Friday Night Funkin'** (not so much the community and content though); Boyfriend is my favorite character! 💙
 - 🚀 Currently exploring Go game dev with Ebitengine
 - 🎓 Learning more about concurrency and best practices in Go
 - 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all) (a local coding competition in Slovakia)
@@ -35,8 +35,8 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
 <p align="center">
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/pjsk.png?raw=true" alt="pjsk" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="minecraft" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="funkin" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="fall_guys" width="42" height="42" />
+  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="funkin" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="half_life" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="slime_rancher" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="satisfactory" width="42" height="42" />
