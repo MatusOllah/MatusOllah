@@ -6,7 +6,7 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
 - 🎤 I ❤ **Project SEKAI**; Tsukasa Tenma is my one of my favorite characters! 💛
-- 🎤 I used to like **Friday Night Funkin'**, but I'm no longer involved with the game and the community these days; Boyfriend still holds a special place in my heart! 💙
+- 🎤 I used to like **Friday Night Funkin'**, but I'm no longer involved with the game and the community these days (it's too toxic 😓); Boyfriend still holds a special place in my heart! 💙
 - 🚀 Currently exploring Go game dev with Ebitengine
 - 🎓 Learning more about concurrency and best practices in Go
 - 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all) (a local coding competition in Slovakia)
