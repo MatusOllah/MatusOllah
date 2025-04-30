@@ -5,13 +5,13 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
-- 🎤 I ❤ **Project SEKAI**; Tsukasa Tenma is my one of my favorite characters! 💛
-- 🎤 I used to like **Friday Night Funkin'**, but I'm no longer involved with the game and the community these days (it's too toxic 😓); Boyfriend still holds a special place in my heart! 💙
+- 🎤 I ❤ **Project SEKAI**; Tsukasa Tenma is one of my favorite characters! 💛
+- 🎤 I used to like **Friday Night Funkin'**, but I'm no longer involved with the game and community anymore (it's too toxic 😓); Boyfriend still holds a special place in my heart! 💙
 - 🚀 Currently exploring Go game dev with Ebitengine
 - 🎓 Learning more about concurrency and best practices in Go
 - 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all) (a local coding competition in Slovakia)
 - 🏅 Participated in **Junior kóder/ka 2025** on the [FRI UNIZA](https://fri.uniza.sk) in Žilina
-- 🇸🇰 I'm Slovak, and English is not my first language!
+- 🇸🇰 I'm Slovak, and English is my second language!
 
 > *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
 
@@ -39,8 +39,7 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="half_life" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="slime_rancher" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="satisfactory" width="42" height="42" />
-  <!-- <img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="funkin" width="42" height="42" /> --!>
-
+  <!-- <img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="funkin" width="42" height="42" /> -->
 </p>
 
 ## 🍛 Favorite Foods & Drinks
