@@ -39,7 +39,8 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="half_life" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="slime_rancher" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="satisfactory" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="funkin" width="42" height="42" />
+  <!-- <img src="https://github.com/MatusOllah/MatusOllah/blob/main/funkin.png?raw=true" alt="funkin" width="42" height="42" /> --!>
+
 </p>
 
 ## 🍛 Favorite Foods & Drinks
