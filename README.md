@@ -65,7 +65,7 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
 
 - 🏗️ [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with improvements
 - 🏗️ [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go-based standalone FNF chart editor
-- 🏗 [**makesticker**](https://github.com/MatusOllah/makesticker) - A Project SEKAI CLI sticker maker, written in Go
+- [**makesticker**](https://github.com/MatusOllah/makesticker) - A Project SEKAI CLI sticker maker, written in Go
 - [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog, written in Go
 
 > 🏗️ = work-in-progress
