@@ -1,14 +1,13 @@
 # Hiii! 😊
 
 I'm a passionate Go developer from Slovakia who loves coding, gaming, and making cool things happen with technology!
-I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 😍
+I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 😍
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
-- 🎤 I ❤ **Project SEKAI**; Tsukasa Tenma is one of my favorite characters! 💛
-- 🎤 I used to like **Friday Night Funkin'**, but I'm no longer involved with the game and community anymore (it's too toxic 😓); Boyfriend still holds a special place in my heart though! 💙
+- 🌟 I ❤ **Project SEKAI**; Tsukasa Tenma is one of my favorite characters! 💛
+- 🎤 I don't like **Friday Night Funkin'**, but I still ❤ Boyfriend!
 - 🚀 Currently exploring DSP in Go
-- 🎓 Learning more about concurrency and best practices in Go
 - 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all) (a local coding competition in Slovakia)
 - 🏅 Participated in **Junior kóder/ka 2025** on the [FRI UNIZA](https://fri.uniza.sk) in Žilina
 - 🇸🇰 I'm Slovak, and English is my second language!
@@ -29,6 +28,19 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
 </p>
+
+## 🚀 My Projects
+
+- 🏗️ [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with improvements
+- 🏗️ [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go-based standalone FNF chart editor
+- [**MakeSticker**](https://github.com/MatusOllah/makesticker) - A Project SEKAI CLI sticker maker, written in Go
+- [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog, written in Go
+
+> 🏗️ = work-in-progress
+
+## 📊 My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatusOllah&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatusOllah&theme=transparent&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎮 Favorite Games
 
@@ -60,19 +72,6 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*, I LOVE IT! 
 [Rudimental - Green & Gold](https://tidal.com/browse/track/345812639?u) |
 [Mitchie M - Newly Edgy Idols](https://tidal.com/browse/track/157120047?u) |
 [Giga - 劣等上等 feat. 鏡音リン・レン](https://tidal.com/browse/track/159287894?u)
-
-## 🚀 My Projects
-
-- 🏗️ [**GophEngine**](https://github.com/MatusOllah/gophengine) - A 1:1 Go-based remake of Friday Night Funkin' with improvements
-- 🏗️ [**GCharted**](https://github.com/MatusOllah/gcharted) - A Go-based standalone FNF chart editor
-- [**MakeSticker**](https://github.com/MatusOllah/makesticker) - A Project SEKAI CLI sticker maker, written in Go
-- [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog, written in Go
-
-> 🏗️ = work-in-progress
-
-## 📊 My Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatusOllah&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatusOllah&theme=transparent&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Connect With Me
 
