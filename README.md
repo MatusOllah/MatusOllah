@@ -69,7 +69,7 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 
 [Skepsis & Brodie - Double Vision](https://tidal.com/browse/track/378768669?u) |
 [Rudimental - Green & Gold](https://tidal.com/browse/track/345812639?u) |
-[Mitchie M - Newly Edgy Idols](https://tidal.com/browse/track/157120047?u) |
+[KIRA feat. Kagamine Rin/Len - FAKE HEART](https://youtu.be/q2RQyrp6j_A?si=QJaJv4GRmwGbV8Wb) |
 [Giga - 劣等上等 feat. 鏡音リン・レン](https://tidal.com/browse/track/159287894?u)
 
 ## 📬 Connect With Me
