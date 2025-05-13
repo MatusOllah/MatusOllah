@@ -5,7 +5,7 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
-- 🌟 I ❤ **Project SEKAI**; Tsukasa and Airi are one of my favorite characters!
+- 🌟 I ❤ **Project SEKAI**; Tsukasa and Airi are some of my favorite characters!
 - 🎤 I don't like **Friday Night Funkin'**, but I still ❤ Boyfriend!
 - 🚀 Currently exploring DSP in Go
 - 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all) (a local coding competition in Slovakia)
@@ -31,8 +31,8 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 
 ## 🚀 My Projects
 
-- 🏗️ [**GoTAU**](github.com/MatusOllah/gotau) - UTAU-compatible singing voice synthesizer, written in Go
-- [**goreg**](github.com/MatusOllah/goreg) - Generic registry package for Go
+- 🏗️ [**GoTAU**](https://github.com/MatusOllah/gotau) - UTAU-compatible singing voice synthesizer, written in Go
+- [**goreg**](https://github.com/MatusOllah/goreg) - Generic registry package for Go
 - [**MakeSticker**](https://github.com/MatusOllah/makesticker) - A Project SEKAI CLI sticker maker, written in Go
 - [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog, written in Go
 
@@ -76,7 +76,7 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 
 > Feel free to reach out if you want to talk about Go, or gaming, or just be friends!
 
-- **Discord** - [@sladkycitron](https://discord.com/channels/@sladkycitron)
+- **Discord** - @sladkycitron
 - **Instagram** - [@matusollah](https://www.instagram.com/matusollah/)
 - **Steam** - [SladkyCitron](https://steamcommunity.com/id/SladkyCitron/)
 
