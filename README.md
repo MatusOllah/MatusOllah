@@ -5,7 +5,7 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
-- 🌟 I ❤ **Project SEKAI**; Tsukasa and Airi are some of my favorite characters!
+- 🌟 I ❤ **Project SEKAI**; Rui Kamishiro is my favorite character! 💜
 - 🎤 I don't like **Friday Night Funkin'**, but I still ❤ Boyfriend!
 - 🚀 Currently exploring DSP in Go
 - 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all) (a local coding competition in Slovakia)
