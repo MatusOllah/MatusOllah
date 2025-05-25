@@ -66,10 +66,10 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 
 ## 🎵 Favorite Songs
 
-[Skepsis & Brodie - Double Vision](https://tidal.com/browse/track/378768669?u) |
-[Rudimental - Green & Gold](https://tidal.com/browse/track/345812639?u) |
-[KIRA feat. Kagamine Rin/Len - FAKE HEART](https://youtu.be/q2RQyrp6j_A?si=QJaJv4GRmwGbV8Wb) |
-[Giga - 劣等上等 feat. 鏡音リン・レン](https://tidal.com/browse/track/159287894?u)
+- [Skepsis & Brodie - Double Vision](https://tidal.com/browse/track/378768669?u)
+- [Rudimental - Green & Gold](https://tidal.com/browse/track/345812639?u)
+- [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://youtu.be/q2RQyrp6j_A?si=QJaJv4GRmwGbV8Wb)
+- [Giga - 劣等上等 feat. 鏡音リン・レン](https://tidal.com/browse/track/159287894?u)
 
 ## 📬 Connect With Me
 
@@ -78,7 +78,3 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 - **Discord** - @sladkycitron
 - **Instagram** - [@matusollah](https://www.instagram.com/matusollah/)
 - **Steam** - [SladkyCitron](https://steamcommunity.com/id/SladkyCitron/)
-
----
-
-> also did I forget to mention that I love Go? 🤣
