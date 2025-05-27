@@ -1,15 +1,15 @@
 # Hiii! 😊
 
-I'm a passionate Go developer from Slovakia who loves coding, gaming, and making cool things happen with technology!
-I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 😍
+I'm a 16-year-old student and passionate self-taught Go developer from Slovakia who loves coding, gaming, and making awesome things happen with technology!
+I'm a hardcore Gopher, and Go is my primary language for everything.
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
 - 🌟 I ❤ **Project SEKAI**; Rui Kamishiro is my favorite character! 💜
 - 🚀 Currently exploring DSP in Go
-- 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all) (a local coding competition in Slovakia)
+- 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all)
 - 🏅 Participated in **Junior kóder/ka 2025** on the [FRI UNIZA](https://fri.uniza.sk) in Žilina
-- 🇸🇰 I'm Slovak, and English is my second language!
+- 🇸🇰 I'm Slovak, and English is my second language, so please forgive any mistakes! 😊
 
 > *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
 
@@ -30,8 +30,8 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 
 ## 🚀 My Projects
 
-- 🏗️ [**GoTAU**](https://github.com/MatusOllah/gotau) - UTAU-compatible singing voice synthesizer, written in Go
-- [**goreg**](https://github.com/MatusOllah/goreg) - Generic registry package for Go
+- 🏗️ [**GoTAU**](https://github.com/MatusOllah/gotau) - Experimental UTAU-compatible singing voice synthesizer, written in Go
+- 🏗️ [**Resona**](https://github.com/MatusOllah/resona) - The Audio and DSP toolkit for Go
 - [**MakeSticker**](https://github.com/MatusOllah/makesticker) - A Project SEKAI CLI sticker maker, written in Go
 - [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog, written in Go
 
@@ -66,15 +66,15 @@ I'm a hardcore Gopher, and Go is my go-to language for *everything*. I LOVE IT! 
 
 ## 🎵 Favorite Songs
 
-- [Skepsis & Brodie - Double Vision](https://tidal.com/browse/track/378768669?u)
-- [Rudimental - Green & Gold](https://tidal.com/browse/track/345812639?u)
 - [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://youtu.be/q2RQyrp6j_A?si=QJaJv4GRmwGbV8Wb)
+- [Giga - おこちゃま戦争](https://tidal.com/browse/track/379348574?u)
 - [Giga - 劣等上等 feat. 鏡音リン・レン](https://tidal.com/browse/track/159287894?u)
+- [Skepsis & Brodie - Double Vision](https://tidal.com/browse/track/378768669?u)
 
 ## 📬 Connect With Me
 
 > Feel free to reach out if you want to talk about Go, or gaming, or just be friends!
 
 - **Discord** - @sladkycitron
-- **Instagram** - [@matusollah](https://www.instagram.com/matusollah/)
+- **Instagram** (rarely active) - [@matusollah](https://www.instagram.com/matusollah/)
 - **Steam** - [SladkyCitron](https://steamcommunity.com/id/SladkyCitron/)
