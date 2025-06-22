@@ -1,7 +1,7 @@
 # Hiii! 😊
 
 I'm a 16-year-old student and passionate self-taught Go developer from Slovakia who loves coding, gaming, and making awesome things happen with technology!
-I'm a hardcore Gopher, and Go is my primary language for everything.
+I'm a hardcore Gopher, and Go is my primary language for everything. (it's better than Rust 🤣)
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
