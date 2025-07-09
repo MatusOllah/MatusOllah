@@ -4,7 +4,7 @@ I'm a 16-year-old student and passionate self-taught Go developer from Slovakia 
 I'm a hardcore Gopher, and Go is my primary language for everything. (it's better than Rust 🤣)
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
-- 🎵 I ❤ **Drum & Bass** and **J-Pop** (good music = good code!)
+- 🎵 I ❤ **J-Pop** (good music = good code!)
 - 🌟 I ❤ **Project SEKAI**; Rui Kamishiro is my favorite character! 💜
 - 🚀 Currently exploring DSP in Go
 - 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all)
@@ -67,9 +67,9 @@ I'm a hardcore Gopher, and Go is my primary language for everything. (it's bette
 ## 🎵 Favorite Songs
 
 - [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://youtu.be/q2RQyrp6j_A?si=QJaJv4GRmwGbV8Wb)
+- [Ado - Odo](https://tidal.com/browse/track/200242432?u)
 - [Giga - おこちゃま戦争](https://tidal.com/browse/track/379348574?u)
 - [Giga - 劣等上等 feat. 鏡音リン・レン](https://tidal.com/browse/track/159287894?u)
-- [Skepsis & Brodie - Double Vision](https://tidal.com/browse/track/378768669?u)
 
 ## 📬 Connect With Me
 
