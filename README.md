@@ -5,7 +5,7 @@ I'm a hardcore Gopher, and Go is my primary language for everything. (sorry Rust
 
 - 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **J-Pop** (good music = good code!)
-- 🌟 I ❤ **Project SEKAI**; Rui Kamishiro is my favorite character! 💜
+- 🌟 I ❤ **Project SEKAI**; Rui Kamishiro and Airi Momoi are my favorite characters! ❤️
 - 🚀 Currently exploring DSP in Go
 - 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all)
 - 🏅 Participated in **Junior kóder/ka 2025** on the [FRI UNIZA](https://fri.uniza.sk) in Žilina
@@ -67,9 +67,9 @@ I'm a hardcore Gopher, and Go is my primary language for everything. (sorry Rust
 ## 🎵 Favorite Songs
 
 - [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://youtu.be/q2RQyrp6j_A?si=QJaJv4GRmwGbV8Wb)
+- [MORE MORE JUMP! - 気まぐれメルシィ](https://www.youtube.com/watch?v=9FTEK4KJMfo)
 - [Ado - Odo](https://tidal.com/browse/track/200242432?u)
 - [Giga - おこちゃま戦争](https://tidal.com/browse/track/379348574?u)
-- [Giga - 劣等上等 feat. 鏡音リン・レン](https://tidal.com/browse/track/159287894?u)
 
 ## 📬 Connect With Me
 
