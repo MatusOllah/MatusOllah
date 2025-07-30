@@ -67,9 +67,9 @@ I'm a hardcore Gopher, and Go is my primary language for everything. (sorry Rust
 ## 🎵 Favorite Songs
 
 - [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://youtu.be/q2RQyrp6j_A?si=QJaJv4GRmwGbV8Wb)
-- [MORE MORE JUMP! - 気まぐれメルシィ](https://www.youtube.com/watch?v=9FTEK4KJMfo)
+- [MORE MORE JUMP! - Kimagure Mercy](https://www.youtube.com/watch?v=9FTEK4KJMfo)
+- [MORE MORE JUMP! - Parasol Cider](https://www.youtube.com/watch?v=KJI_3HaLtmc)
 - [Ado - Odo](https://tidal.com/browse/track/200242432?u)
-- [Giga - おこちゃま戦争](https://tidal.com/browse/track/379348574?u)
 
 ## 📬 Connect With Me
 
