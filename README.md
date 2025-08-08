@@ -3,12 +3,9 @@
 I'm a 16-year-old student and passionate self-taught Go developer from Slovakia who loves coding, gaming, and making awesome things happen with technology!
 I'm a hardcore Gopher, and Go is my primary language for everything. (sorry Rust fans 🤣)
 
-- 💻 I'm all about **IT, gaming and coding**, especially in Go
 - 🎵 I ❤ **J-Pop** (good music = good code!)
 - 🌟 I ❤ **Project SEKAI**; Rui Kamishiro and Airi Momoi are my favorite characters! ❤️
 - 🚀 Currently exploring DSP in Go
-- 🏅 Participated in [**ZENIT 2024**](https://zenit.ksp.sk/results/zenit24sk/ZA/cbgTVUEyPEn6nypoGX56/all)
-- 🏅 Participated in **Junior kóder/ka 2025** on the [FRI UNIZA](https://fri.uniza.sk) in Žilina
 - 🇸🇰 I'm Slovak, and English is my second language, so please forgive any mistakes! 😊
 
 > *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
