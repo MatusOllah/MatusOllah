@@ -4,7 +4,7 @@ I'm a 16-year-old student and passionate self-taught Go developer from Slovakia 
 I'm a hardcore Gopher, and Go is my primary language for everything. (sorry Rust fans 🤣)
 
 - 🎵 I ❤ **J-Pop** (good music = good code!)
-- 🌟 I ❤ **Project SEKAI**; Rui Kamishiro and Airi Momoi are my favorite characters! ❤️
+- 🌟 I ❤ **Project SEKAI**; Airi Momoi and Rui Kamishiro are my favorite characters! ❤️
 - 🚀 Currently exploring DSP in Go
 - 🇸🇰 I'm Slovak, and English is my second language, so please forgive any mistakes! 😊
 
