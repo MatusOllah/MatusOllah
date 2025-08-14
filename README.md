@@ -66,7 +66,7 @@ I'm a hardcore Gopher, and Go is my primary language for everything. (sorry Rust
 - [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://youtu.be/q2RQyrp6j_A?si=QJaJv4GRmwGbV8Wb)
 - [MORE MORE JUMP! - Kimagure Mercy](https://www.youtube.com/watch?v=9FTEK4KJMfo)
 - [MORE MORE JUMP! - Parasol Cider](https://www.youtube.com/watch?v=KJI_3HaLtmc)
-- [Ado - Odo](https://tidal.com/browse/track/200242432?u)
+- [Vivid BAD SQUAD - Alter Ego](https://www.youtube.com/watch?v=y_lZimJsdjU)
 
 ## 📬 Connect With Me
 
