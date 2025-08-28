@@ -44,6 +44,7 @@ I'm a hardcore Gopher, and Go is my primary language for everything. (sorry Rust
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/pjsk.png?raw=true" alt="pjsk" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/minecraft.png?raw=true" alt="minecraft" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/fall_guys.png?raw=true" alt="fall_guys" width="42" height="42" />
+  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/subnautica.png?raw=true" alt="subnautica" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/half_life.png?raw=true" alt="half_life" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/slime_rancher.png?raw=true" alt="slime_rancher" width="42" height="42" />
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="satisfactory" width="42" height="42" />
