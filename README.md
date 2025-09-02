@@ -65,9 +65,9 @@ I'm a hardcore Gopher, and Go is my primary language for everything. (sorry Rust
 ## 🎵 Favorite Songs
 
 - [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://tidal.com/browse/track/389798883?u)
+- [Hiiragi Magnetite - Antenna 39](https://www.youtube.com/watch?v=7yJRsFFRoQY)
 - [MORE MORE JUMP! - Kimagure Mercy](https://www.youtube.com/watch?v=9FTEK4KJMfo)
 - [MORE MORE JUMP! - Parasol Cider](https://www.youtube.com/watch?v=KJI_3HaLtmc)
-- [Vivid BAD SQUAD - Alter Ego](https://www.youtube.com/watch?v=y_lZimJsdjU)
 
 ## 📬 Connect With Me
 
