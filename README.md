@@ -28,7 +28,7 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 ## 🚀 My Projects
 
 - 🏗️ [**GoTAU**](https://github.com/MatusOllah/gotau) - Experimental UTAU-compatible singing voice synthesizer, written in Go
-- 🏗️ [**Resona**](https://github.com/MatusOllah/resona) - The Audio and DSP toolkit for Go
+- [**Resona**](https://github.com/MatusOllah/resona) - The Audio and DSP toolkit for Go
 - [**MakeSticker**](https://github.com/MatusOllah/makesticker) - A Project SEKAI CLI sticker maker, written in Go
 - [**slogcolor**](https://github.com/MatusOllah/slogcolor) - Color handler for log/slog, written in Go
 
