@@ -51,18 +51,6 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
   <img src="https://github.com/MatusOllah/MatusOllah/blob/main/satisfactory.png?raw=true" alt="satisfactory" width="42" height="42" />
 </p>
 
-## 🍛 Favorite Foods & Drinks
-
-<p align="center">
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/halusky.png?raw=true" alt="halusky" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/lasagne.png?raw=true" alt="lasagne" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/horalky.png?raw=true" alt="horalky" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/anita.png?raw=true" alt="anita" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/kofola.png?raw=true" alt="kofola" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/fanta.png?raw=true" alt="fanta" width="42" height="42" />
-  <img src="https://github.com/MatusOllah/MatusOllah/blob/main/baldovska.png?raw=true" alt="baldovska" width="42" height="42" />
-</p>
-
 ## 🎵 Favorite Songs
 
 - [Hiiragi Magnetite - Antenna 39](https://www.youtube.com/watch?v=7yJRsFFRoQY)
@@ -77,4 +65,4 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 - **Discord** - @sladkycitron
 - **Instagram** (rarely active) - [@matusollah](https://www.instagram.com/matusollah/)
 - **Steam** - [SladkyCitron](https://steamcommunity.com/id/SladkyCitron/)
-- **PJSK** - `597493647457402889`
+- **EN PJSK** - `597493647457402889`
