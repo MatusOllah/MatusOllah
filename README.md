@@ -3,8 +3,8 @@
 I'm a 16-year-old student and passionate self-taught Go developer from Slovakia who loves coding, gaming, and making awesome things happen with technology!
 I'm a hardcore Gopher, and Go is my primary language for everything.
 
-- 🎵 I ❤ **Vocaloid** (good music = good code!)
-- 🌟 I ❤ **Project SEKAI**; Airi Momoi and Rui Kamishiro are my favorite characters! ❤️
+- 🎵 I ❤ **Vocaloid** (Hatsune Miku is my favorite one! 🩵)
+- 🌟 I ❤ **Project SEKAI** (Airi Momoi and Rui Kamishiro are my favorite characters! ❤️)
 - 🚀 Currently exploring DSP in Go
 - 🇸🇰 I'm Slovak, and English is my second language, so please forgive any mistakes! 😊
 
@@ -53,14 +53,14 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 
 ## 🎵 Favorite Songs
 
-- [Hiiragi Magnetite - Antenna 39](https://www.youtube.com/watch?v=7yJRsFFRoQY)
-- [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://tidal.com/browse/track/389798883?u)
-- [MORE MORE JUMP! - Kimagure Mercy](https://www.youtube.com/watch?v=9FTEK4KJMfo)
-- [MORE MORE JUMP! - Parasol Cider](https://www.youtube.com/watch?v=KJI_3HaLtmc)
+- [Hiiragi Magnetite fest. Hatsune Miku - Antenna 39](https://www.youtube.com/watch?v=7yJRsFFRoQY)
+- [KIRA feat. Kagamine Rin/Len - FAKE HEART](https://tidal.com/track/389798883/u)
+- [Mitchie M - Ring no Shitenshi](https://tidal.com/track/120907317/u)
+- [Hachioji P - Rad Dogs](https://tidal.com/track/240205801/u)
 
 ## 📬 Connect With Me
 
-> Feel free to reach out if you want to talk about Go, or gaming, or just be friends!
+> Feel free to reach out if you want to talk about Go, or PJSK, or just be friends!
 
 - **Discord** - @sladkycitron
 - **Instagram** (rarely active) - [@matusollah](https://www.instagram.com/matusollah/)
