@@ -63,6 +63,5 @@ I'm a hardcore Gopher, and Go is my primary language for everything.
 > Feel free to reach out if you want to talk about Go, or PJSK, or just be friends!
 
 - **Discord** - @sladkycitron
-- **Instagram** (rarely active) - [@matusollah](https://www.instagram.com/matusollah/)
 - **Steam** - [SladkyCitron](https://steamcommunity.com/id/SladkyCitron/)
 - **EN PJSK** - `597493647457402889`
